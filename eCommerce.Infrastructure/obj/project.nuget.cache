@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "80g/fHlUQGQ=",
+  "success": true,
+  "projectFilePath": "/Users/nuraibesger/RiderProjects/eCommerceSolution.UsersService /eCommerce.Infrastructure/eCommerce.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/nuraibesger/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.7/microsoft.extensions.dependencyinjection.abstractions.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
